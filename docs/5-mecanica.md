@@ -1,15 +1,15 @@
 # 5. Mecânica
 
 ## 5.1 Esboço do loop principal
-a)  Movimentação do jogador.
-b)  Disparo do jogador.
-c)  Detecção de colisão dos disparos com os inimigos.
-d)  Reação dos inimigos à presença do jogador.
-e)  Ataque dos inimigos.
-f)  Detecção de colisão dos ataques dos inimigos com o jogador.
-g)  Verificação de vida do jogador (se perdeu toda a vida, fim de jogo).
-h)  Verificação de spawn do padre
-i)  Verificação se o jogador chegou ao destino.
+a)  Movimentação do jogador. <br>
+b)  Disparo do jogador.<br>
+c)  Detecção de colisão dos disparos com os inimigos.<br>
+d)  Reação dos inimigos à presença do jogador.<br>
+e)  Ataque dos inimigos.<br>
+f)  Detecção de colisão dos ataques dos inimigos com o jogador.<br>
+g)  Verificação de vida do jogador (se perdeu toda a vida, fim de jogo).<br>
+h)  Verificação de spawn do padre.<br>
+i)  Verificação se o jogador chegou ao destino.<br>
 
 ## 5.2 Atores, componentes e mecânicas
 

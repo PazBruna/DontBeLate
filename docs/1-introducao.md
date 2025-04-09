@@ -13,23 +13,3 @@ mais desafiadora.
 
 
     
-## 1.1 Esboço do loop principal
--  Movimentação do jogador.
--   Disparo do jogador.
--   Detecção de colisão dos disparos com os quero-queros.
--   Reação dos quero-queros à presença do jogador.
--   Ataque dos quero-queros.
--   Detecção de colisão dos ataques dos quero-queros com o jogador.
--   Verificação de vida do jogador (se perdeu toda a vida, fim de jogo).
--   Verificação se o jogador chegou ao destino.
-
-## 1.2 Atores, componentes e mecânicas
-
-- Jogador: Possui como componentes a vida e a quantidade de munição, além de
-portar uma arma. Pode se movimentar livremente pelo cenário e atirar para se
-defender.
-- Quero-queros: Possuem vida e poder de ataque. Permanecem em patrulha no
-ambiente e reagem agressivamente à presença do jogador, atacando-o assim que o
-detectam.
-- Arma: Conta com atributos de dano e nível, sendo aprimorada a cada progresso do
-jogador.

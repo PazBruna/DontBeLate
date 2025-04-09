@@ -14,3 +14,11 @@ A atitude lusória será estimulada por meio de recompensas interessantes, como 
 do personagem e o desbloqueio de novas armas. Isso incentiva a progressão no jogo e a repetição
 de fases para otimizar a experiência.
 
+## 2.2 Estado de desafio e progressão do jogo
+
+O jogo apresenta uma progressão baseada em fases, onde cada trajeto entre prédios
+representa um nível. A dificuldade aumenta gradualmente com a adição de mais inimigos,
+incluindo pequenos calangos e a temida estátua do padre, que representa o inimigo mais forte. A
+estratégia inclui a possibilidade de esse inimigo aparecer randomicamente ou acelerar os inimigos
+menores. Conforme o jogador avança, ele se aproxima do prédio final (prédio K), encerrando o
+jogo após derrotar o inimigo principal.

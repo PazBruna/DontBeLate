@@ -1,4 +1,4 @@
-# Introdução
+# 1. Introdução
 
  
  O estilo do jogo é caracterizado como ação, aventura e shooter. Nele você é um estudante
@@ -13,7 +13,7 @@ mais desafiadora.
 
 
     
-### 1. Esboço do loop principal
+## 1.1 Esboço do loop principal
 -  Movimentação do jogador.
 -   Disparo do jogador.
 -   Detecção de colisão dos disparos com os quero-queros.
@@ -23,7 +23,7 @@ mais desafiadora.
 -   Verificação de vida do jogador (se perdeu toda a vida, fim de jogo).
 -   Verificação se o jogador chegou ao destino.
 
-### 2. Atores, componentes e mecânicas
+## 1.2 Atores, componentes e mecânicas
 
 - Jogador: Possui como componentes a vida e a quantidade de munição, além de
 portar uma arma. Pode se movimentar livremente pelo cenário e atirar para se

@@ -1,5 +1,4 @@
-# 3. Elementos Formais, Dinâmicos e Dramáticos 
-
+# 3. Estética
 ## 3.1 Padrão de interação do jogador 
 
 O Don’t Be Late é um jogo single-player, o qual o jogador joga a todo momento contra a

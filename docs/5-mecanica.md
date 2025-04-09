@@ -1,23 +1,25 @@
 # 5. Mecânica
 
 ## 5.1 Esboço do loop principal
--  Movimentação do jogador.
--   Disparo do jogador.
--   Detecção de colisão dos disparos com os quero-queros.
--   Reação dos quero-queros à presença do jogador.
--   Ataque dos quero-queros.
--   Detecção de colisão dos ataques dos quero-queros com o jogador.
--   Verificação de vida do jogador (se perdeu toda a vida, fim de jogo).
--   Verificação se o jogador chegou ao destino.
+a)  Movimentação do jogador.
+b)  Disparo do jogador.
+c)  Detecção de colisão dos disparos com os inimigos.
+d)  Reação dos inimigos à presença do jogador.
+e)  Ataque dos inimigos.
+f)  Detecção de colisão dos ataques dos inimigos com o jogador.
+g)  Verificação de vida do jogador (se perdeu toda a vida, fim de jogo).
+h)  Verificação de spawn do padre
+i)  Verificação se o jogador chegou ao destino.
 
 ## 5.2 Atores, componentes e mecânicas
 
 - Jogador: Possui como componentes a vida e a quantidade de munição, além de
 portar uma arma. Pode se movimentar livremente pelo cenário e atirar para se
 defender.
-- Quero-queros: Possuem vida e poder de ataque. Permanecem em patrulha no
+- Quero-queros: Possuem vida. Permanecem em patrulha no
 ambiente e reagem agressivamente à presença do jogador, atacando-o assim que o
 detectam.
+- Estátua do Padre: Possui vida. Surge aleatoriamente pelo mapa. Ataca o jogador assim que o ver.
 - Arma: Conta com atributos de dano e nível, sendo aprimorada a cada progresso do
 jogador.
 
